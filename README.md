@@ -1,4 +1,4 @@
-# Exchange-Online-gestion-sharded-mailbox
+# Exchange-Online-manage-shared-mailbox
 Récupération des modules nécessaire pour la gestion Exchange Online
 Connexion au tenant
 Récupération de la liste des BAL partagée, et pour chacune donne son état pour ses deux paramètres et vous propose de changer ou non
